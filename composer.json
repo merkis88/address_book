@@ -1,0 +1,19 @@
+{
+    "name": "merkis88/address-book",
+    "description": "Простое приложение 'Адресная книга' на чистом PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "merkis88",
+            "email": "axuenno88@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "illuminate/database": "^12.16"
+    }
+}
