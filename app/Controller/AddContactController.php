@@ -5,7 +5,7 @@ use App\Model\Contact;
 
 class AddContactController
 {
-    public function addForm(){
+    public function showForm(){
         view('contact/create');
     }
 
