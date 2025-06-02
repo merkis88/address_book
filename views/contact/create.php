@@ -15,8 +15,8 @@
     <label>Телефон: <input type="text" name="phone"></label><br>
     <label>Тип:
         <select name="type">
-            <option value="person">Физ. лицо</option>
-            <option value="company">Юр. лицо</option>
+            <option value="Физическое лицо">Физ. лицо</option>
+            <option value="Юридическое лицо">Юр. лицо</option>
         </select>
     </label><br>
     <label>Комментарий:<br>
